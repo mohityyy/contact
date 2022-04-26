@@ -1,0 +1,14 @@
+.header-top{
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+li{
+    display: flex;
+}
+p{
+    margin-left: 5%;
+}
+a{
+    color: white;
+}
